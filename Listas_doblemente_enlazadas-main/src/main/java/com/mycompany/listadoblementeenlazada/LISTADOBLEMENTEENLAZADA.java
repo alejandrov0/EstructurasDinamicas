@@ -168,6 +168,5 @@ class ListaDobleEnlazada {
     }
 
     public void borrarElemento(int valor) {
-        // Implementa la lógica para borrar un elemento
     }
 }
